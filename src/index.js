@@ -1,7 +1,7 @@
-import js18 from "./sections/3/18.js";
+import js18 from "./sections/4/18.js";
 
 /**
- * セクション3: ReactやVue等を使うために知っておきたいJavaScriptの基本
+ * セクション4: モダンJavaScriptの機能に触れる
  */
 
 // 18. const、let等の変数宣言
