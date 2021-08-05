@@ -1,5 +1,6 @@
 import js18 from "./sections/4/18.js";
 import js19 from "./sections/4/19.js";
+import js20 from "./sections/4/20.js";
 
 /**
  * セクション4: モダンJavaScriptの機能に触れる
@@ -9,4 +10,7 @@ import js19 from "./sections/4/19.js";
 // js18();
 
 // 19. テンプレート文字列 ``
-js19();
+// js19();
+
+// 20. アロー関数 =>
+js20();
