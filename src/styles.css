@@ -1,3 +1,26 @@
 body {
   font-family: sans-serif;
 }
+
+.area {
+  padding: 0.5rem;
+  margin-top: 1rem;
+}
+
+.input-area {
+  background: #99cfe5;
+}
+
+.incomplete-area {
+  background: #aec1e3;
+}
+
+.complete-area {
+  background: #ccb3dd;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0;
+}

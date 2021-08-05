@@ -1,7 +1,8 @@
-import js18 from "./sections/4/18.js";
-import js19 from "./sections/4/19.js";
-import js20 from "./sections/4/20.js";
-import js21 from "./sections/4/21.js";
+// import js18 from "./sections/4/18.js";
+// import js19 from "./sections/4/19.js";
+// import js20 from "./sections/4/20.js";
+// import js21 from "./sections/4/21.js";
+import todo from "./sections/5/todo.js";
 
 /**
  * セクション4: モダンJavaScriptの機能に触れる
@@ -17,4 +18,11 @@ import js21 from "./sections/4/21.js";
 // js20();
 
 // 21. 分割代入 {}
-js21();
+// js21();
+
+// 途中省略
+
+/**
+ * セクション5: 素のJavaScriptだけでTODOアプリを作成してみよう
+ */
+todo();
